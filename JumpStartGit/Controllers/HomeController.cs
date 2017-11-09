@@ -10,7 +10,7 @@ namespace JumpStartGit.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page Updated";
+            ViewBag.Title = "Home Page Updated in test branch";
 
             return View();
         }
